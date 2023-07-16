@@ -15,7 +15,6 @@ the answers to certain important questions that are considered significant to an
 mental health state. This project involves building a simple interface. A user answers some 
 questions and based on the answers that they provide, we will predict if they require mental 
 health treatment or not and display it. 
-#
 Mental health entails more than the absence of mental illnesses. Mental health issues affect 
 the entire population, not just a tiny, isolated portion. Hence, we all need to invest our time, 
 and technology toward a healthy mind.
